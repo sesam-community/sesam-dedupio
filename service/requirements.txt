@@ -1,0 +1,5 @@
+numpy>=1.9
+flask
+dedupe
+requests
+sesamclient

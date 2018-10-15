@@ -1,0 +1,6 @@
+.idea
+venv
+training.json
+test*
+settings*
+salesforce-contact
