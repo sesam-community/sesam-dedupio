@@ -1,6 +1,7 @@
 # sesam-dedupio
 Dedupe.io powered service for finding duplicates in Sesam.io powered applications
 
+This service doesn't include model training so previously trained model must be supplied (SETTINGS_FILE property). 
 
 # Usage
 
